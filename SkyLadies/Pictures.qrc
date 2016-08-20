@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/SLPic">
+        <file>Refresh.png</file>
+        <file>Help.png</file>
+        <file>Search.png</file>
+        <file>Bookmark.png</file>
+        <file>Download.png</file>
+        <file>Download2.png</file>
+        <file>Back.png</file>
+        <file>next.png</file>
+        <file>sunset.png</file>
+    </qresource>
+</RCC>
